@@ -1,5 +1,5 @@
 
-# Pandemic SImulation
+# Pandemic Simulation
 
 This is a pandemic simulation project which uses various data structures like graph, heaps and sets.
 
